@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="my_name">Olyn Dabbs</string>
+    <string name="major">Major:</string>
+    <string name="my_major">Computer Science</string>
+    <string name="fav_course">Favorite Course:</string>
+    <string name="top_background_description">Top Background</string>
+    <string name="bottom_background_description">Bottom Background</string>
+    <string name="button_text">Click Me!</string>
+    <string name="no_text_entered">No Favorite!</string>
+    <string name="text_entered">%1$s is fun!</string>
+</resources>
